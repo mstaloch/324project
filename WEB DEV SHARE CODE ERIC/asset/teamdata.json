@@ -1,0 +1,19 @@
+
+{
+  "data" : [
+    {
+      "Team" : "Barcelona",
+      "Player Name" : "Tony",
+      "Position" : "Center",
+      "Matches Played" : "10",
+      "Season Goals" : "20"
+    },
+    {
+      "Team" : "England",
+      "Player Name" : "Eric",
+      "Position" : "Goalkeeper",
+      "Matches Played" : "10",
+      "Season Goals" : "20"
+    }
+  ]
+}

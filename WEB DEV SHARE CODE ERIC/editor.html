@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <meta charset="UTF-8">
+      <title>TeamStats Editor</title>
+      <link rel="stylesheet" type="text/css" href="editor.css">
+    </head>
+  <body>
+    <header>
+      <h1>TeamStats</h1>
+    </header>
+    <nav>
+    	<ul>
+          <li class = "login"><a class = "login" href = "http://localhost/myproject/teamstats/sportsidea/login.html">LOGIN</a></li>
+      </ul>
+    </nav>
+    <main>
+  	<hr>
+  			<div class="TeamStats-form">
+                  <form onsubmit="event.preventDefault();onFormSubmit();" autocomplete="off">
+                      <div>
+                          <label>Team</label><label class="validation-error hide" id="TeamValidationError">*</label>
+                          <input type="text" name="articleHeading" id="Team">
+                      </div>
+                      <div>
+                          <label>Player Name</label>
+                          <input type="text" name="tag" id="Player Name">
+                      </div>
+                      <div>
+                          <label>Position</label>
+                          <input type="text" name="abstract" id="Position">
+                      </div>
+                      <div>
+                          <label>Matches Played</label>
+                          <input type="text" name="fullText" id="Matches Played">
+                      </div>
+                      <div>
+                          <label>Season Goals</label>
+                          <input type="text" name="fullText" id="Season Goals">
+                      </div>
+                      <div  class="form-action-buttons">
+                          <input type="submit" value="Submit">
+                      </div>
+                  </form>
+  		</div>
+  		<br/>
+  		<div class = "table">
+                  <table class="list" id="articleList">
+                      <thead>
+                          <tr>
+                              <th>Team</th>
+                              <th>Player Name</th>
+                              <th>Position</th>
+                              <th>Matches Played</th>
+                              <th>Season Goals</th>
+                              <th>Avg Goals Per Game<a class = "calc" onClick="onCalc()">Calc</a></th>
+                          </tr>
+                      </thead>
+                      <tbody>
+
+                      </tbody>
+                      <tfoot>
+
+                      </tfoot>
+                  </table>
+          </div>
+    </main>
+    <script type="text/javascript" src="editor.js"></script>
+  </body>
+</html>

@@ -1,0 +1,82 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+
+.form-action-buttons input {
+  background-color: lightgreen;
+  color: white;
+  cursor: pointer;
+}
+
+form input:focus{
+  color: red;
+}
+
+.form-action-buttons input:focus{
+  color: white;
+}
+
+
+table {
+  width: 100%;
+  border: 1px solid white;
+}
+
+th {
+  color: red;
+  border: 3px solid red;
+}
+
+td {
+  border: 1px solid white;
+}
+
+td:nth-child(7n) {
+  border: 3px solid blue;
+  color: white;
+}
+
+td:nth-child(7n) a {
+  color: white;
+  border: 3px solid blue;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 20px;
+}
+
+
+td:nth-child(7n) a:hover{
+  color: lightgreen;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+tbody {
+  text-align: center;
+  color: white;
+}
+
+.calc {
+  color: orange;
+  border: 1px solid orange;
+  padding: 5px;
+  margin-left: 20px;
+}
+
+.calc:hover {
+  color: lightgreen;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.login {
+  color: gold;
+  list-style: none;
+}
+
+.login:hover {
+  color: lightgrey;
+  cursor: pointer;
+}

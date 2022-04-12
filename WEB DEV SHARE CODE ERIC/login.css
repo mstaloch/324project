@@ -1,0 +1,28 @@
+/*
+  CSS stylesheet for login.html
+*/
+
+
+body {
+  background-color: black;
+  background-image: url("./asset/soccer.jpg");
+  color: white;
+}
+
+nav ul {
+  list-style: none;
+}
+
+a {
+  color: gold;
+  cursor: pointer;
+}
+
+a:hover {
+  color: lightgrey;
+  cursor: pointer;
+}
+
+input {
+  width: 25%;
+}
