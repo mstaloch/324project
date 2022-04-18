@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <meta charset="UTF-8">
+      <title>TeamStats</title>
+      <link rel="stylesheet" type="text/css" href="login.css">
+    </head>
+  <body>
+    <header>
+      <h1>TeamStats</h1>
+    </header>
+    <nav>
+      <ul>
+          <li class = "login"><a href = "http://localhost/myproject/teamstats/sportsidea/login.html">LOGIN</a></li>
+      </ul>
+    </nav>
+    <main>
+      <section id = "createNewUser">
+        <form id = "login">
+          <label for = "inputNewUsername">New Username:</label>
+          <input type = "text" id = "inputNewUsername" name = "usernameBox">
+        <br>
+          <label for = "inputNewPassword">New Password:</label>
+          <input type = "password" id = "inputNewPassword" name = "passwordBox">
+        <br>
+          <label for = "TeamName">Team Name:</label>
+          <select id = "TeamName" name = "teamNameBox">
+          </select>
+        </form>
+        <br>
+        <button id = "testLogin">Create New User</button>
+      </section>
+      <section>
+        <p id = "newUserSuccess"></p>
+      </section>
+    </main>
+    <footer>
+      <p>2022 LUC: Eric Wang, Mac Staloch & Robert Xie</p>
+    </footer>
+    <script type="text/javascript" src="createUser.js"></script>
+  </body>
+</html>
