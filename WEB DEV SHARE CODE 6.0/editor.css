@@ -1,0 +1,93 @@
+
+body {
+  background-color: black;
+  color: white;
+}
+
+.login {
+  color: gold;
+  list-style: none;
+}
+
+.login:hover {
+  color: lightgrey;
+  cursor: pointer;
+}
+
+form {
+  display: flex;
+  flex-flow: column wrap;
+}
+
+form input {
+  width: 250px;
+}
+
+.SubmitBtn {
+  background-color: lightgreen;
+  color: white;
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  border: 5px solid white;
+}
+
+th {
+  color: brown;
+  border: 10px solid brown;
+}
+
+td {
+  border: 3px solid white;
+}
+
+td:nth-child(7n) {
+  border: 3px solid lightgreen;
+  color: white;
+}
+
+td:nth-child(7n) a {
+  color: lightgreen;
+  border: 3px solid lightgreen;
+  margin: 20px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+
+td:nth-child(7n) a:hover{
+  color: lightgreen;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+tbody {
+  text-align: center;
+  color: white;
+}
+
+.calc {
+  color: lightgreen;
+  border: 1px solid lightgreen;
+  margin-left: 20px;
+}
+
+.calc:hover {
+  color: lightgreen;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+aside {
+  color: gold;
+  text-align: center;
+  border: 1px solid gold;
+}
+
+aside button {
+  background-color: lightgreen;
+  color: white;
+  cursor: pointer;
+}
