@@ -1,0 +1,146 @@
+main{
+    background-color: #2e9bb6;
+    background-size:cover;
+}
+
+.img_wrapper {
+    display: grid;
+    list-style-type: none;
+    grid-template-rows: 1fr 2fr 1fr;
+    grid-gap: 10px;
+    background-color: #2e9bb6;
+    padding-top: 15px;
+    color: #444;
+  }
+  
+body {
+    background-color: #2e9bb6;
+}
+
+  .box {
+    background-image: url("/img/questionnaire-bg.jpg");
+    color: black;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 150%;
+    word-wrap: break-word;
+  }
+  
+  .a {
+      grid-column: 1/2;
+      grid-row: 1/2;
+      text-align: center;
+    }
+    .b {
+        grid-column: 2/3;
+        grid-row: 1/2;
+        text-align: center;
+    }
+    .c {
+      grid-column: 3/4;
+      grid-row: 1/2;
+      text-align: center;
+    }
+    .d{
+        grid-column: 4/5;
+        grid-row: 1/2;
+        text-align: center;
+    }
+
+    .about_wrapper {
+        display: grid;
+        list-style-type: none;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-gap: 10px;
+        background-color: #2e9bb6;
+        padding-bottom: 15px;
+        color: #444;
+      }
+      
+      .box {
+        background-color: #2e9bb6;
+        color: black;
+        border-radius: 10px;
+        padding: 20px;
+        font-size: 150%;
+        word-wrap: break-word;
+      }
+      
+      .aText {
+          grid-column: 1/2;
+          grid-row: 2/3;
+    
+        }
+        .bText {
+            grid-column: 2/3;
+            grid-row: 2/3;
+        }
+        .cText {
+          grid-column: 3/4;
+          grid-row: 2/3;
+        }
+        .dText{
+            grid-column: 4/5;
+            grid-row: 2/3;
+        }
+    
+
+.header-background{
+    background-image: url("/img/HeaderBG.png");
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-bottom: 30px;
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+}  
+
+footer {
+    background-image: url("/img/HeaderBG.png");
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    color: black;
+}
+
+.navbar li, .home-directory li{
+    display: grid;
+    width: 400px;
+    margin: 0 auto;
+    padding: 4px;
+    border-radius: 3px;
+}
+
+.WebHeader {
+    font-size: 30px;
+}
+
+a {
+    display: grid;
+    color: black;
+    grid-gap: 10px;
+    transition: all 0.5s ease-out;
+}
+
+a:hover {
+    text-decoration: underline;
+    background-color: #d5f4e6;
+    color: rgb(25, 71, 168);
+    font-size: 20px;
+}
+
+img {
+
+    border-radius: 10%;
+    position: relative;
+    top: 20px;
+    left: 10px;
+    object-fit: contain; 
+
+}
+
+p {
+    font-size: large;
+    font: Serif;
+}
