@@ -1,0 +1,86 @@
+{
+  "players": [
+    {
+      "TeamID": 1,
+      "PlayerName": "Bob",
+      "Position": "Goalkeeper",
+      "MatchesPlayed": "10",
+      "SeasonGoals": "1",
+      "id": 6
+    },
+    {
+      "TeamID": "3",
+      "PlayerName": "Sparky D. Dragon",
+      "Position": "UIC Mascot",
+      "MatchesPlayed": "0",
+      "SeasonGoals": "0",
+      "id": 7
+    },
+    {
+      "TeamID": 1,
+      "PlayerName": "Mac",
+      "Position": "Center",
+      "MatchesPlayed": "10",
+      "SeasonGoals": "20",
+      "id": 9
+    },
+    {
+      "TeamID": 1,
+      "PlayerName": "Eric",
+      "Position": "Defender",
+      "MatchesPlayed": "10",
+      "SeasonGoals": "0",
+      "id": 10
+    },
+    {
+      "TeamID": 1,
+      "PlayerName": "Messi",
+      "Position": "Forward",
+      "MatchesPlayed": "10",
+      "SeasonGoals": "20",
+      "id": 11
+    },
+    {
+      "TeamID": 2,
+      "PlayerName": "LU Wolf",
+      "Position": "Mascot",
+      "MatchesPlayed": "0",
+      "SeasonGoals": "0",
+      "id": 12
+    }
+  ],
+  "login": [
+    {
+      "Username": "Eric",
+      "Password": "123",
+      "TeamID": 1,
+      "id": 1
+    },
+    {
+      "Username": "Mac",
+      "Password": "123",
+      "TeamID": 2,
+      "id": 2
+    },
+    {
+      "Username": "Bob",
+      "Password": "12345",
+      "TeamID": 3,
+      "id": 3
+    }
+  ],
+  "teams": [
+    {
+      "TeamName": "Barcelona",
+      "id": 1
+    },
+    {
+      "TeamName": "Ramblers",
+      "id": 2
+    },
+    {
+      "TeamName": "Chicago Fire",
+      "id": 3
+    }
+  ]
+}
