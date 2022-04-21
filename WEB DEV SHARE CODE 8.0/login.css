@@ -1,0 +1,61 @@
+/*
+  CSS stylesheet for login.html
+*/
+
+
+body {
+  /*background-image: url('soccer.jpg');
+    Does NOT work
+  */
+  background-color: black;
+  color: white;
+}
+
+nav ul {
+  list-style: none;
+  line-height: 2.5;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+}
+
+li a {
+  display: block;
+  text-decoration: none;
+  cursor: pointer;
+  color: gold;
+  background-color: darkgreen;
+  text-align: center;
+}
+
+li a:hover {
+  cursor: pointer;
+  background-color: gray;
+}
+
+main {
+  margin-top: 50px;
+}
+
+main a {
+  cursor: pointer;
+  color: gold;
+}
+
+main a:hover {
+  cursor: pointer;
+  color: green;
+}
+
+input {
+  width: 25%;
+}
+
+button {
+  background-color: green;
+  color: white;
+}
+
+footer {
+  margin-top: 50px;
+}
