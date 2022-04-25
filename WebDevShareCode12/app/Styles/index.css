@@ -1,0 +1,84 @@
+body {
+  background: black;
+  font-size: 15px;
+  color: white;
+}
+
+/* heading styles */
+h1, h3, h5 {
+  padding: 5px;
+  margin: 10px 0 10px 0;
+}
+/* heading 3 */
+h3 {
+  font-size: 1.75em;
+}
+/* heading 5 */
+h5 {
+  font-size: 1.25em;
+}
+/* site header */
+header {
+  border-bottom: 3px solid #dedede;
+}
+/* site main content category */
+main {
+  overflow: auto;
+  padding: 15px 0 15px 0;
+}
+
+
+/* Menu anchor link CSS */
+nav li {
+  list-style-type: none;
+  float: left;
+  margin-left: 50px;
+}
+
+li a {
+  padding: 10px;
+  text-decoration: none;
+  cursor: pointer;
+  color: gold;
+  background-color: darkgreen;
+  text-align: center;
+}
+
+li a:hover {
+  cursor: pointer;
+  background-color: gray;
+}
+
+/* Soccer field @ night image */
+img {
+  width: 100%;
+  height: 250px;
+  align-content: center;
+}
+
+/* Dashboard statistics */
+.col-7 h5 {
+  border: 1px solid white;
+}
+table {
+  border: 1px solid white;
+  width: 100%;
+}
+th {
+  border: 1px solid white;
+  color: gold;
+}
+td {
+  border: 1px solid white;
+  text-align: center;
+}
+
+/* site footer */
+footer {
+  margin-top: 5px;
+  border-top: 1px solid #dedede;
+}
+/* site footer paragraph */
+footer p {
+  font-size: 1.25em;
+}

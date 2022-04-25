@@ -1,0 +1,422 @@
+{
+  "players": [
+    {
+      "TeamID": "3",
+      "PlayerName": "Sparky D. Dragon",
+      "Position": "Mascot",
+      "MatchesPlayed": "0",
+      "SeasonGoals": "0",
+      "id": 16
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Ousmane Dembele",
+      "Position": "Forward #7",
+      "MatchesPlayed": "27",
+      "SeasonGoals": "2",
+      "id": 22
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Memphis Depay",
+      "Position": "Forward #9",
+      "MatchesPlayed": "32",
+      "SeasonGoals": "11",
+      "id": 23
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Ansu Fati",
+      "Position": "Forward #10",
+      "MatchesPlayed": "10",
+      "SeasonGoals": "5",
+      "id": 24
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Adama Traore",
+      "Position": "Forward #11",
+      "MatchesPlayed": "14",
+      "SeasonGoals": "0",
+      "id": 25
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Martin Braithwaite",
+      "Position": "Forward #12",
+      "MatchesPlayed": "5",
+      "SeasonGoals": "2",
+      "id": 27
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Luuk de Jong",
+      "Position": "Forward #17",
+      "MatchesPlayed": "26",
+      "SeasonGoals": "7",
+      "id": 28
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Ferran Torres",
+      "Position": "Forward #19",
+      "MatchesPlayed": "20",
+      "SeasonGoals": "7",
+      "id": 29
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Pierre-Emerick Aubameyang",
+      "Position": "Forward #25",
+      "MatchesPlayed": "17",
+      "SeasonGoals": "11",
+      "id": 30
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Sergio Busquets",
+      "Position": "Midfielder #5",
+      "MatchesPlayed": "46",
+      "SeasonGoals": "2",
+      "id": 31
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Riqui Puig",
+      "Position": "Midfielder #6",
+      "MatchesPlayed": "14",
+      "SeasonGoals": "1",
+      "id": 32
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Nico Ganzalez",
+      "Position": "Midfielder #14",
+      "MatchesPlayed": "36",
+      "SeasonGoals": "2",
+      "id": 33
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Pedri",
+      "Position": "Midfielder #16",
+      "MatchesPlayed": "22",
+      "SeasonGoals": "5",
+      "id": 34
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Sergi Roberto",
+      "Position": "Midfielder #20",
+      "MatchesPlayed": "12",
+      "SeasonGoals": "2",
+      "id": 35
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Frenkie de Jong",
+      "Position": "Midfielder #21",
+      "MatchesPlayed": "42",
+      "SeasonGoals": "4",
+      "id": 36
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Sergino Dest",
+      "Position": "Defender #2",
+      "MatchesPlayed": "30",
+      "SeasonGoals": "0",
+      "id": 37
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Gerard Pique",
+      "Position": "Defender #3",
+      "MatchesPlayed": "39",
+      "SeasonGoals": "3",
+      "id": 38
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Ronald Araujo",
+      "Position": "Defender #4",
+      "MatchesPlayed": "38",
+      "SeasonGoals": "4",
+      "id": 39
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Dani Alves",
+      "Position": "Defender #8",
+      "MatchesPlayed": "12",
+      "SeasonGoals": "1",
+      "id": 40
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Clement Lenglet",
+      "Position": "Defender #15",
+      "MatchesPlayed": "22",
+      "SeasonGoals": "0",
+      "id": 41
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Jordi Alba",
+      "Position": "Defender #18",
+      "MatchesPlayed": "39",
+      "SeasonGoals": "2",
+      "id": 42
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Oscar Mingueza",
+      "Position": "Defender #22",
+      "MatchesPlayed": "24",
+      "SeasonGoals": "0",
+      "id": 43
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Samuel Umtiti",
+      "Position": "Defender #23",
+      "MatchesPlayed": "1",
+      "SeasonGoals": "0",
+      "id": 44
+    },
+    {
+      "TeamID": "1",
+      "PlayerName": "Eric Garcia",
+      "Position": "Defender #24",
+      "MatchesPlayed": "32",
+      "SeasonGoals": "0",
+      "id": 45
+    },
+    {
+      "TeamID": "2",
+      "PlayerName": "Michael Hong",
+      "Position": "D #3",
+      "MatchesPlayed": "16",
+      "SeasonGoals": "1",
+      "id": 46
+    },
+    {
+      "TeamID": "2",
+      "PlayerName": "Andrew Mitchell",
+      "Position": "D #4",
+      "MatchesPlayed": "14",
+      "SeasonGoals": "1",
+      "id": 47
+    },
+    {
+      "TeamID": "2",
+      "PlayerName": "Lukas Ender",
+      "Position": "D #5",
+      "MatchesPlayed": "16",
+      "SeasonGoals": "2",
+      "id": 48
+    },
+    {
+      "TeamID": "2",
+      "PlayerName": "Marc Torrellas",
+      "Position": "D #6",
+      "MatchesPlayed": "16",
+      "SeasonGoals": "1",
+      "id": 49
+    },
+    {
+      "TeamID": "2",
+      "PlayerName": "Billy Hency",
+      "Position": "MF #7",
+      "MatchesPlayed": "16",
+      "SeasonGoals": "9",
+      "id": 50
+    },
+    {
+      "TeamID": "2",
+      "PlayerName": "Giann Magno",
+      "Position": "MF #8",
+      "MatchesPlayed": "15",
+      "SeasonGoals": "0",
+      "id": 51
+    },
+    {
+      "TeamID": "2",
+      "PlayerName": "Oscar Dueso",
+      "Position": "MF #9",
+      "MatchesPlayed": "16",
+      "SeasonGoals": "5",
+      "id": 52
+    },
+    {
+      "TeamID": "2",
+      "PlayerName": "Alex Afaro",
+      "Position": "MF #10",
+      "MatchesPlayed": "8",
+      "SeasonGoals": "0",
+      "id": 53
+    },
+    {
+      "TeamID": "2",
+      "PlayerName": "Ethan Stoneman",
+      "Position": "D/MF #11",
+      "MatchesPlayed": "2",
+      "SeasonGoals": "0",
+      "id": 54
+    },
+    {
+      "TeamID": "2",
+      "PlayerName": "John Gates",
+      "Position": "F #13",
+      "MatchesPlayed": "15",
+      "SeasonGoals": "2",
+      "id": 55
+    },
+    {
+      "TeamID": "2",
+      "PlayerName": "Alex Moskal",
+      "Position": "F #15",
+      "MatchesPlayed": "13",
+      "SeasonGoals": "2",
+      "id": 56
+    },
+    {
+      "TeamID": "2",
+      "PlayerName": "Andrew Schweinert",
+      "Position": "D/MF #16",
+      "MatchesPlayed": "10",
+      "SeasonGoals": "0",
+      "id": 57
+    },
+    {
+      "TeamID": "2",
+      "PlayerName": "Erik Rozanski",
+      "Position": "MF/F #17",
+      "MatchesPlayed": "4",
+      "SeasonGoals": "0",
+      "id": 58
+    },
+    {
+      "TeamID": "2",
+      "PlayerName": "Tyler Biggs",
+      "Position": "MF #18",
+      "MatchesPlayed": "16",
+      "SeasonGoals": "0",
+      "id": 59
+    },
+    {
+      "TeamID": "2",
+      "PlayerName": "Benni Hoffman",
+      "Position": "D #19",
+      "MatchesPlayed": "12",
+      "SeasonGoals": "1",
+      "id": 60
+    },
+    {
+      "TeamID": "2",
+      "PlayerName": "Fabian Bercerra",
+      "Position": "F #20",
+      "MatchesPlayed": "12",
+      "SeasonGoals": "4",
+      "id": 61
+    },
+    {
+      "TeamID": "2",
+      "PlayerName": "Tomas Dias",
+      "Position": "MF #21",
+      "MatchesPlayed": "5",
+      "SeasonGoals": "0",
+      "id": 62
+    },
+    {
+      "TeamID": "2",
+      "PlayerName": "Brody Phan",
+      "Position": "MF #23",
+      "MatchesPlayed": "6",
+      "SeasonGoals": "0",
+      "id": 63
+    },
+    {
+      "TeamID": "2",
+      "PlayerName": "Jakob Bookjans",
+      "Position": "MF/F #25",
+      "MatchesPlayed": "5",
+      "SeasonGoals": "0",
+      "id": 64
+    },
+    {
+      "TeamID": "2",
+      "PlayerName": "Julian Cisneros",
+      "Position": "D/MF #26",
+      "MatchesPlayed": "16",
+      "SeasonGoals": "5",
+      "id": 65
+    },
+    {
+      "TeamID": "2",
+      "PlayerName": "Jason Ybarra",
+      "Position": "MF #29",
+      "MatchesPlayed": "12",
+      "SeasonGoals": "0",
+      "id": 66
+    },
+    {
+      "TeamID": "3",
+      "PlayerName": "Mac",
+      "Position": "Forward",
+      "MatchesPlayed": "20",
+      "SeasonGoals": "20",
+      "id": 67
+    },
+    {
+      "TeamID": "3",
+      "PlayerName": "Bob",
+      "Position": "Midfielder",
+      "MatchesPlayed": "20",
+      "SeasonGoals": "10",
+      "id": 68
+    },
+    {
+      "TeamID": "3",
+      "PlayerName": "Eric",
+      "Position": "Defender",
+      "MatchesPlayed": "20",
+      "SeasonGoals": "5",
+      "id": 69
+    }
+  ],
+  "login": [
+    {
+      "Username": "Eric",
+      "Password": "123",
+      "TeamID": 1,
+      "id": 1
+    },
+    {
+      "Username": "Mac",
+      "Password": "123",
+      "TeamID": 2,
+      "id": 2
+    },
+    {
+      "Username": "Bob",
+      "Password": "12345",
+      "TeamID": 3,
+      "id": 3
+    }
+  ],
+  "teams": [
+    {
+      "TeamName": "FC Barcelona",
+      "id": 1
+    },
+    {
+      "TeamName": "LUC Ramblers (Men's Soccer)",
+      "id": 2
+    },
+    {
+      "TeamName": "Chicago Wildfire",
+      "id": 3
+    }
+  ]
+}

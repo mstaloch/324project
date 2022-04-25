@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>TeamStats: Create User</title>
+  <link rel="stylesheet" type="text/css" href="Styles/login.css">
+</head>
+<body>
+  <header>
+    <h1>TeamStats</h1>
+  </header>
+  <nav>
+    <ul>
+        <li class = "login"><a href = "login.html">Return to Login</a></li>
+    </ul>
+  </nav>
+  <main>
+    <section id = "createNewUser">
+      <form id = "login">
+        <label for = "inputNewUsername">New Username:</label>
+        <input type = "text" id = "inputNewUsername" name = "usernameBox">
+      <br>
+        <label for = "inputNewPassword">New Password:</label>
+        <input type = "password" id = "inputNewPassword" name = "passwordBox">
+      <br>
+        <label for = "TeamName">Team Name:</label>
+        <select id = "TeamName" name = "teamNameBox">
+        </select>
+      </form>
+      <br>
+      <button id = "testLogin">Create New User</button>
+    </section>
+    <section>
+      <p id = "newUserSuccess"></p>
+    </section>
+  </main>
+  <footer>
+  </footer>
+  <script type="text/javascript" src="Scripts/createUser.js"></script>
+</body>
+</html>
