@@ -1,0 +1,102 @@
+
+body {
+  background-color: black;
+  color: white;
+}
+
+/* Logout anchor link */
+.login {
+  color: gold;
+  list-style: none;
+}
+
+.login:hover {
+  color: lightgrey;
+  cursor: pointer;
+}
+
+/* form input data fields for players */
+form {
+  display: flex;
+  flex-flow: column wrap;
+}
+
+form input {
+  width: 250px;
+}
+
+.SubmitBtn {
+  background-color: lightgreen;
+  color: white;
+  cursor: pointer;
+}
+
+/* Editor page table */
+.table {
+  margin-top: 50px;
+}
+
+table {
+  width: 100%;
+  border: 5px solid white;
+}
+
+th {
+  color: brown;
+  border: 10px solid brown;
+}
+
+td {
+  border: 3px solid white;
+}
+
+/* editor page table: calc (avg goals per game) & edit/delete links */
+td:nth-child(6n) {
+  border: 3px solid lightgreen;
+  color: white;
+}
+
+td:nth-child(6n) a {
+  color: lightgreen;
+  border: 1px solid lightgreen;
+  margin: 20px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+
+td:nth-child(6n) a:hover{
+  color: lightgreen;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+tbody {
+  text-align: center;
+  color: white;
+}
+
+.calc {
+  color: lightgreen;
+  border: 1px solid lightgreen;
+  margin-left: 20px;
+}
+
+.calc:hover {
+  color: lightgreen;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* aside = total goals scored by team */
+aside {
+  color: gold;
+  text-align: center;
+  border: 1px solid gold;
+}
+
+aside button {
+  background-color: lightgreen;
+  color: white;
+  cursor: pointer;
+}

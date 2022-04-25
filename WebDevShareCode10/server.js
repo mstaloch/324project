@@ -3,7 +3,7 @@ const path = require('path');
 // require express module
 const express = require('express');
 // define path to static dir public
-const publicDir = path.join(__dirname, '/app');
+const publicDir = path.join(__dirname);
 // define variable to call express methods
 var app = express();
 // configure express static middleware

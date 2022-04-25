@@ -195,7 +195,7 @@
     {
       "TeamID": "2",
       "PlayerName": "Michael Hong",
-      "Position": "#3",
+      "Position": "D #3",
       "MatchesPlayed": "16",
       "SeasonGoals": "1",
       "id": 46
@@ -203,7 +203,7 @@
     {
       "TeamID": "2",
       "PlayerName": "Andrew Mitchell",
-      "Position": "#4",
+      "Position": "D #4",
       "MatchesPlayed": "14",
       "SeasonGoals": "1",
       "id": 47
@@ -211,7 +211,7 @@
     {
       "TeamID": "2",
       "PlayerName": "Lukas Ender",
-      "Position": "#5",
+      "Position": "D #5",
       "MatchesPlayed": "16",
       "SeasonGoals": "2",
       "id": 48
@@ -219,7 +219,7 @@
     {
       "TeamID": "2",
       "PlayerName": "Marc Torrellas",
-      "Position": "#6",
+      "Position": "D #6",
       "MatchesPlayed": "16",
       "SeasonGoals": "1",
       "id": 49
@@ -227,7 +227,7 @@
     {
       "TeamID": "2",
       "PlayerName": "Billy Hency",
-      "Position": "#7",
+      "Position": "MF #7",
       "MatchesPlayed": "16",
       "SeasonGoals": "9",
       "id": 50
@@ -235,7 +235,7 @@
     {
       "TeamID": "2",
       "PlayerName": "Giann Magno",
-      "Position": "#8",
+      "Position": "MF #8",
       "MatchesPlayed": "15",
       "SeasonGoals": "0",
       "id": 51
@@ -243,7 +243,7 @@
     {
       "TeamID": "2",
       "PlayerName": "Oscar Dueso",
-      "Position": "#9",
+      "Position": "MF #9",
       "MatchesPlayed": "16",
       "SeasonGoals": "5",
       "id": 52
@@ -251,7 +251,7 @@
     {
       "TeamID": "2",
       "PlayerName": "Alex Afaro",
-      "Position": "#10",
+      "Position": "MF #10",
       "MatchesPlayed": "8",
       "SeasonGoals": "0",
       "id": 53
@@ -259,7 +259,7 @@
     {
       "TeamID": "2",
       "PlayerName": "Ethan Stoneman",
-      "Position": "#11",
+      "Position": "D/MF #11",
       "MatchesPlayed": "2",
       "SeasonGoals": "0",
       "id": 54
@@ -267,7 +267,7 @@
     {
       "TeamID": "2",
       "PlayerName": "John Gates",
-      "Position": "#13",
+      "Position": "F #13",
       "MatchesPlayed": "15",
       "SeasonGoals": "2",
       "id": 55
@@ -275,7 +275,7 @@
     {
       "TeamID": "2",
       "PlayerName": "Alex Moskal",
-      "Position": "#15",
+      "Position": "F #15",
       "MatchesPlayed": "13",
       "SeasonGoals": "2",
       "id": 56
@@ -283,7 +283,7 @@
     {
       "TeamID": "2",
       "PlayerName": "Andrew Schweinert",
-      "Position": "#16",
+      "Position": "D/MF #16",
       "MatchesPlayed": "10",
       "SeasonGoals": "0",
       "id": 57
@@ -291,7 +291,7 @@
     {
       "TeamID": "2",
       "PlayerName": "Erik Rozanski",
-      "Position": "#17",
+      "Position": "MF/F #17",
       "MatchesPlayed": "4",
       "SeasonGoals": "0",
       "id": 58
@@ -299,7 +299,7 @@
     {
       "TeamID": "2",
       "PlayerName": "Tyler Biggs",
-      "Position": "#18",
+      "Position": "MF #18",
       "MatchesPlayed": "16",
       "SeasonGoals": "0",
       "id": 59
@@ -307,7 +307,7 @@
     {
       "TeamID": "2",
       "PlayerName": "Benni Hoffman",
-      "Position": "#19",
+      "Position": "D #19",
       "MatchesPlayed": "12",
       "SeasonGoals": "1",
       "id": 60
@@ -315,7 +315,7 @@
     {
       "TeamID": "2",
       "PlayerName": "Fabian Bercerra",
-      "Position": "#20",
+      "Position": "F #20",
       "MatchesPlayed": "12",
       "SeasonGoals": "4",
       "id": 61
@@ -323,7 +323,7 @@
     {
       "TeamID": "2",
       "PlayerName": "Tomas Dias",
-      "Position": "#21",
+      "Position": "MF #21",
       "MatchesPlayed": "5",
       "SeasonGoals": "0",
       "id": 62
@@ -331,7 +331,7 @@
     {
       "TeamID": "2",
       "PlayerName": "Brody Phan",
-      "Position": "#23",
+      "Position": "MF #23",
       "MatchesPlayed": "6",
       "SeasonGoals": "0",
       "id": 63
@@ -339,7 +339,7 @@
     {
       "TeamID": "2",
       "PlayerName": "Jakob Bookjans",
-      "Position": "#25",
+      "Position": "MF/F #25",
       "MatchesPlayed": "5",
       "SeasonGoals": "0",
       "id": 64
@@ -347,7 +347,7 @@
     {
       "TeamID": "2",
       "PlayerName": "Julian Cisneros",
-      "Position": "#26",
+      "Position": "D/MF #26",
       "MatchesPlayed": "16",
       "SeasonGoals": "5",
       "id": 65
@@ -355,7 +355,7 @@
     {
       "TeamID": "2",
       "PlayerName": "Jason Ybarra",
-      "Position": "#29",
+      "Position": "MF #29",
       "MatchesPlayed": "12",
       "SeasonGoals": "0",
       "id": 66
@@ -411,7 +411,7 @@
       "id": 1
     },
     {
-      "TeamName": "LUC Ramblers",
+      "TeamName": "LUC Ramblers (Men's Soccer)",
       "id": 2
     },
     {
